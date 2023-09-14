@@ -1,0 +1,33 @@
+.container{
+    text-align:center;
+    padding-bottom: 15px;
+  
+}
+.form{
+   
+    background-color: rgb(241, 236, 189);
+    font-size: large;
+    
+}
+.form-lable{
+  font-weight: bold;
+}
+#gender{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+#city{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+
+}
+.form-input-btn{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(129, 183, 252);
+
+}

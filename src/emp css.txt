@@ -1,0 +1,35 @@
+/* .banner-card{
+    height: fit-content
+} */
+
+.banner-text {
+  position: absolute;
+
+  top: 125px;
+  color: white;
+}
+
+.banner-text h1 {
+  font-size: 150px;
+  text-transform: uppercase;
+  padding-left: 350px;
+  text-align: center;
+}
+.banner-text h2 {
+  font-size: 60px;
+  text-align: center;
+   padding-left: 350px;
+}
+
+.banner-text h3 {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+   padding-left: 350px;
+}
+
+.slider-btn {
+  text-align: center;
+  padding-top: 25px;
+   padding-left: 350px;
+}

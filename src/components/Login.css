@@ -1,0 +1,10 @@
+.login-form{
+    text-align: center;
+}
+.login-input-btn{
+background-color:green;
+color: white;
+margin: 40px;
+width: 70px;
+height: 35px;
+}

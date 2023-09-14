@@ -1,0 +1,76 @@
+/* css for Header  (navbar) */
+
+/* header and navbar css editation */
+.myheader ul li a:hover{
+    color: goldenrod;
+}
+
+.myheader ul li a:hover{
+color: goldenrod !important;
+}
+
+.fdback{
+    background-color: rgb(200,200,200);
+    
+}
+
+/* footer css and boostrap editation */
+.footer{
+    /* background-color: #ccc; */
+    background-color: black;
+    color : yellowgreen;
+    padding: 20px;
+    border: 2px gray solid;
+    align-items: center;
+    justify-content: center;
+    /* position: fixed; */
+    bottom: 0;
+    width: 100%;
+    
+}
+
+/*For default adventure point page*/
+
+
+
+
+
+
+
+
+
+/* for about us page css design of code */
+.ABOUT H2{
+    background-color: rgb(200,200,200);
+    text-align: center;
+    color: brown;
+}
+
+.ABOUT .aboutP{
+    font-size: large
+}
+
+.EnqForm{
+    background-color: rgb(200,200,200);
+    align-items: center;
+}
+
+.test_enform{
+    background-color: rgb(200,200,200);
+    align-items: center;
+}
+
+/* css for info pages after clicking */
+ .Info_head{
+    color: brown;
+}
+
+.small_info_heads{
+    color:chocolate;
+}
+
+/* event booking and updating */
+.bookevpage
+{
+    color:chocolate;
+}
