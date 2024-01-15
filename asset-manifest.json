@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.249501f5.css",
+    "main.js": "/static/js/main.2eb53cd8.js",
+    "static/media/HS1.jpg": "/static/media/HS1.05552e922654051f8a32.jpg",
+    "static/media/sandan.jpg": "/static/media/sandan.b1bb7f565277d45e0d58.jpg",
+    "static/media/Rajgad_Gallery6SP.jpg": "/static/media/Rajgad_Gallery6SP.45c86efb3d727f885377.jpg",
+    "static/media/Rafting.jpg": "/static/media/Rafting.3a164f18029b619b8b94.jpg",
+    "static/media/Bikeriding.jpg": "/static/media/Bikeriding.ea9ad7d7fb98d10f2842.jpg",
+    "static/media/Camping.jpg": "/static/media/Camping.c481f3cfbb88f756d86d.jpg",
+    "index.html": "/index.html",
+    "main.249501f5.css.map": "/static/css/main.249501f5.css.map",
+    "main.2eb53cd8.js.map": "/static/js/main.2eb53cd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.249501f5.css",
+    "static/js/main.2eb53cd8.js"
+  ]
+}
